@@ -52,12 +52,7 @@
       <td>C#</td>
       <td>約3年</td>
       <td>指示がなくても自ら提案し、一通りの作業が可能。</td>
-      <td>
-        <ul>
-            <li>Laravel(v5.8, v6系, v7系, v8系)</li>
-            <li>クリーンアーキテクチャ</li>
-        </ul>
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>JavaScript</td>
