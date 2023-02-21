@@ -1,4 +1,4 @@
-# スキルシート (2022/11)
+# スキルシート (2023/02)
 
 ## 基本情報
 <table>
@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td>TypeScript</td>
-      <td>約3ヶ月</td>
+      <td>約6ヶ月</td>
       <td>指示がなくても自ら提案し、一通りの作業が可能。</td>
       <td>
         <ul>
@@ -155,8 +155,6 @@
 * 開発環境
   * Docker
     * docker-composeによるローカル開発
-  * AWS
-    * IDEのソースコード同期機能で開発
   * Vagrant
 * Git
   * Github
@@ -167,6 +165,9 @@
 * IDE
   * Phpstorm
   * VSCode
+* API
+  * Restfull
+  * GraphQL
 
 <div style="page-break-before:always"></div>
 
