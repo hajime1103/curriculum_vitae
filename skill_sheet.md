@@ -1,4 +1,4 @@
-# スキルシート (2023/02)
+# スキルシート (2024/04)
 
 ## 基本情報
 <table>
@@ -39,11 +39,11 @@
     </tr>
     <tr>
       <td>PHP</td>
-      <td>約6年</td>
+      <td>約10年</td>
       <td>指示がなくても自ら提案し、一通りの作業が可能。<br>v4系, v5系, v7系, v8.0の経験有。</td>
       <td>
         <ul>
-            <li>Laravel(v5.8, v6系, v7系, v8系)</li>
+            <li>Laravel(v5.8, v6系, v7系, v8系, v9系, v10系)</li>
             <li>クリーンアーキテクチャ</li>
         </ul>
       </td>
@@ -56,7 +56,7 @@
     </tr>
     <tr>
       <td>JavaScript</td>
-      <td>約5年</td>
+      <td>約6年</td>
       <td>指示がなくても自ら提案し、一通りの作業が可能。</td>
       <td>
         <ul>
@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td>TypeScript</td>
-      <td>約6ヶ月</td>
+      <td>約2年</td>
       <td>指示がなくても自ら提案し、一通りの作業が可能。</td>
       <td>
         <ul>
@@ -76,8 +76,18 @@
       </td>
     </tr>
     <tr>
+      <td>Go</td>
+      <td>約1年</td>
+      <td>指示がなくても自ら提案し、一通りの作業が可能。</td>
+      <td>
+        <ul>
+            <li>1.2系</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>HTML/CSS</td>
-      <td>3年未満</td>
+      <td>約5年</td>
       <td>指示がなくても自ら提案し、一通りの作業が可能</td>
       <td>Buefy Buluma Vuetify</td>
     </tr>
@@ -98,7 +108,7 @@
     <tr>
       <td>DBMS</td>
       <td>MySQL</td>
-      <td>約5年</td>
+      <td>約7年</td>
     </tr>
     <tr>
       <td>DBMS</td>
@@ -113,7 +123,7 @@
     <tr>
       <td>KVS</td>
       <td>redis</td>
-      <td>約3年</td>
+      <td>約4年</td>
     </tr>
   </tbody>
 </table>
