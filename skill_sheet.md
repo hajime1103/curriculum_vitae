@@ -61,6 +61,7 @@
       <td>
         <ul>
             <li>Vue.js/Nuxt.js(v2系, v3系)</li>
+            <li>React.js/Next.js</li>
             <li>jQuery</li>
         </ul>
       </td>
